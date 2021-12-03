@@ -13,3 +13,13 @@ Learn some basic Linux terminal commands
 <br>
 <br>
 <img src="list hidden files.png">
+<br>
+<br>
+<br>
+<h2>'pwd'(Print working directory) Command</h2>
+<code>'pwd' command is used to print the path of the current directory were you are in.</code>
+<br>
+<br>
+<img src="pwd.png">
+<br>
+<br>
