@@ -31,7 +31,9 @@ Learn some basic Linux terminal commands
 <br>
 <br>
 <br>
-<code>'cd ..' is used to go back to the parent directory of a current working directory</code>
+<code>'cd ..' is used to go back to the parent directory of a current working directory in the windows explorer</code>
+<br>
+<br>
 <br>
 <br>
 <img src="cdd.png">
@@ -44,3 +46,19 @@ Learn some basic Linux terminal commands
 <img src="cd3.png">
 <br>
 <br>
+<br>
+<h2>'start' command <span style="color: red;">Works only with windows</span></h2>
+<code>'start' command is used to open current directory in </code>
+<br>
+<br>
+<img src="start.png">
+<br>
+<br>
+<br>
+<h2>'open' command (not works with windows)</h2>
+<br>
+<br>
+<code>'open; command is used to open current working directory in the finder or explorer only works in MacOs and linux</code>
+<br>
+<br>
+<img src="open.png">
