@@ -66,8 +66,6 @@ Learn some basic Linux terminal commands
 <br>
 <br>
 <h2>'touch' Command is used to create new files</h2>
-<br>
-<br>
 <code>'touch' coommand is used to create a new file in current directory</code>
 <br>
 <br>
