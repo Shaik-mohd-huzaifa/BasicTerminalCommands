@@ -73,7 +73,6 @@ Learn some basic Linux terminal commands
 <br>
 <br>
 <br>
-
 <h2>'mkdir' (Make Directory) Command</h2>
 <code>'mkdir' command is used to make or create new directory</code>
 <br>
@@ -82,5 +81,18 @@ Learn some basic Linux terminal commands
 <br>
 <br>
 <br>
-
-
+<h2>'rm' Command</h2>
+<code>'rm' command is used to remove or delete the file from the current directory</code>
+<br>
+<br>
+<img src="rm.png">
+<br>
+<br>
+<br>
+<h2>'rm -rf' Command</h2>
+<code>'rm -rf' command is used to remove or delete the folder from the current directory</code>
+<br>
+<br>
+<img src="rm -rf.png">
+<br>
+<br>
