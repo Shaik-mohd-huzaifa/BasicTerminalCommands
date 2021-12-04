@@ -23,3 +23,24 @@ Learn some basic Linux terminal commands
 <img src="pwd.png">
 <br>
 <br>
+<h2>'cd' (Change Directory) Command </h2>
+<code>'cd' command is used to change the directory of working terminal</code>
+<br>
+<br>
+<img src="cd.png">
+<br>
+<br>
+<br>
+<code>'cd ..' is used to go back to the parent directory of a current working directory</code>
+<br>
+<br>
+<img src="cdd.png">
+<br>
+<br>
+<br>
+<code>'cd ../..' command is used to go two directories back from the current directory</code>
+<br>
+<br>
+<img src="cd3.png">
+<br>
+<br>
