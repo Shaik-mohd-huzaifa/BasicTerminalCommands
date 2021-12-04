@@ -78,7 +78,7 @@ Learn some basic Linux terminal commands
 <code>'mkdir' command is used to make or create new directory</code>
 <br>
 <br>
-<img src="carbon(2).png">
+<img src="carbon (2).png">
 <br>
 <br>
 <br>
